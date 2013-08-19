@@ -1,0 +1,36 @@
+{
+    "name": "portBox",
+    "title": "portBox",
+    "description": "portBox is a simple, light weight and easy to use modal jQuery plugin.",
+    "keywords": [
+        "modal",
+        "pop-up",
+		"lightbox"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Joey Navarro",
+        "url": "http://www.joeynavarro.com/"
+    },
+    "maintainers": [
+        {
+            "name": "Joey Navarro",
+            "email": "joeyn@joeynavarro.com",
+            "url": "http://www.joeynavarro.com/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GPL",
+            "url": "https://github.com/navarroJo/portBox/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/navarroJo/portBox/issues",
+    "homepage": "http://portbox.joeynavarro.com/",
+    "docs": "http://portbox.joeynavarro.com/",
+    "download": "http://portbox.joeynavarro.com/",
+    "dependencies": {
+        "jquery": ">=1.10.2",
+		"jquery UI": ">=1.10.3"
+    }
+}

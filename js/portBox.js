@@ -40,7 +40,7 @@ Set Defaults
 			animationspeed: 200, 
 			
 			//click background to close box yea or nay
-			closeBGclick: true,
+			bgclose: true,
 		};
 		
 		options = $.extend({}, defaults, options); 
@@ -270,7 +270,7 @@ Open and Closing Listeners
 				portBox.trigger('portBox:close')
 			});
 			//Background Click
-			if(options.closeBGclick) {
+			if(options.bgclose) {
 				portBoxBG.css({'cursor':'pointer'})
 				portBoxBG.one('click.portBoxEvent', function () {
 				portBox.trigger('portBox:close')

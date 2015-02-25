@@ -1,5 +1,5 @@
 /*
- * 	portBox 1.0 - jQuery plugin
+ * 	hereUgo 1.0 - jQuery plugin
  *	written by Joey Navarro	
  *	http://www.joeynavarro.com
  *
@@ -12,9 +12,9 @@
  *
  */
 /*-----------------------------------------
-portBox CSS
+hereUgo CSS
 ------------------------------------------*/
-.portBox-overlay {  
+.hereUgo-overlay {  
 	height: 100%;
 	width: 100%;
 	background: #000000;
@@ -27,7 +27,7 @@ portBox CSS
 	display: none;
 }
 
-.portBox {
+.hereUgo {
 	max-width:1280px;
 	position: absolute;
 	display:none;
@@ -48,7 +48,7 @@ portBox CSS
 	box-sizing: border-box;
 }
 
-.close-portBox{
+.close-hereUgo{
 		font-size: 20px;
 		line-height: .5;
 		position: absolute;
@@ -67,7 +67,7 @@ portBox CSS
 		text-decoration:none;
 }
 
-.close-portBox:hover{
+.close-hereUgo:hover{
 	color: #5c5c5c !important;
 	background-color:#fff;
 	border:2px solid #5c5c5c;	

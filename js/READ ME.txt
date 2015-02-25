@@ -6,16 +6,16 @@ jQuery Libraries
  - jquery-1.10.2.min
  - jquery-ui-1.10.3.custom.min
 
-Un-minified portBox and slimScroll
+Un-minified hereUgo and slimScroll
 
- -portBox
+ -hereUgo
  -jquery.slimscroll
 
-Minified portBox and slimScroll
+Minified hereUgo and slimScroll
 
- -portBox.min
+ -hereUgo.min
  -jquery.slimscroll.min
 
-Combined minified portBox and slimScroll
+Combined minified hereUgo and slimScroll
 
- - portBox.slimscroll.min
+ - hereUgo.slimscroll.min

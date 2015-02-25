@@ -1,7 +1,7 @@
 {
-    "name": "portBox",
-    "title": "portBox",
-    "description": "portBox is a simple, light weight and easy to use modal jQuery plugin.",
+    "name": "hereUgo",
+    "title": "hereUgo",
+    "description": "hereUgo is a simple, light weight and easy to use modal jQuery plugin.",
     "keywords": [
         "modal",
         "pop-up",
@@ -22,13 +22,13 @@
     "licenses": [
         {
             "type": "GPL",
-            "url": "https://github.com/navarroJo/portBox/blob/master/LICENSE"
+            "url": "https://github.com/navarroJo/hereUgo/blob/master/LICENSE"
         }
     ],
-    "bugs": "https://github.com/navarroJo/portBox/issues",
-    "homepage": "http://portbox.joeynavarro.com/",
-    "docs": "http://portbox.joeynavarro.com/",
-    "download": "http://portbox.joeynavarro.com/",
+    "bugs": "https://github.com/navarroJo/hereUgo/issues",
+    "homepage": "http://hereUgo.joeynavarro.com/",
+    "docs": "http://hereUgo.joeynavarro.com/",
+    "download": "http://hereUgo.joeynavarro.com/",
     "dependencies": {
         "jquery": ">=1.10.2",
 		"jquery UI": ">=1.10.3"
